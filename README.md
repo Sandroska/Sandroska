@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sandroska, short for Sander Mulder
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently also learning data analytics  
